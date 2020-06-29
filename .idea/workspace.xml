@@ -26,16 +26,14 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree$BinaryNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/oihdsoif/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/oihdsoif/RedBlackTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$COLOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$COLOR.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$RedBlackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$RedBlackNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/Tree/References.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/Tree/testCase.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/production/HW4/Tree/testCase.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/References.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/References/References.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/testCase.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/CarTester.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/GenericTester.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/PostfixTester.class" beforeDir="false" />
@@ -142,7 +140,7 @@
       <updated>1593024683697</updated>
       <workItem from="1593024686422" duration="16184000" />
       <workItem from="1593108006727" duration="26000" />
-      <workItem from="1593135612976" duration="53253000" />
+      <workItem from="1593135612976" duration="54865000" />
     </task>
     <servers />
   </component>
@@ -182,22 +180,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="1025" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593400894332" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1593410261212">
+    <state width="1877" height="380" key="GridCell.Tab.0.bottom" timestamp="1593411725364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1593410261212">
+    <state width="1877" height="380" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593411725364" />
+    <state width="1877" height="380" key="GridCell.Tab.0.center" timestamp="1593411725364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1593410261212">
+    <state width="1877" height="380" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593411725364" />
+    <state width="1877" height="380" key="GridCell.Tab.0.left" timestamp="1593411725364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1593410261212">
+    <state width="1877" height="380" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593411725364" />
+    <state width="1877" height="380" key="GridCell.Tab.0.right" timestamp="1593411725364">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
+    <state width="1877" height="380" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593411725364" />
     <state width="672" height="922" key="GridCell.Tab.1.bottom" timestamp="1593392241075">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

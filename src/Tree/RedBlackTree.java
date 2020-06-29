@@ -319,7 +319,23 @@ public class RedBlackTree <T extends Comparable<T>> {
         }
         x.color = COLOR.BLACK;
     }
-
+    public void printPreOrder() {
+        preOrderTraversal(root);
+        System.out.println();
+    }
+    private void preOrderTraversal(RedBlackNode<T> root) {
+        if (root == null)
+            return;
+        else {
+            System.out.println(root.key + "    " + root.color);
+            if (root.left != nil) {
+                preOrderTraversal(root.left);
+            }
+            if (root.right != nil) {
+                preOrderTraversal(root.right);
+            }
+        }
+    }
     public static void main(String[] args) {
         RedBlackTree<Integer> tree = new RedBlackTree<>();
         tree.insert(100);
@@ -332,6 +348,7 @@ public class RedBlackTree <T extends Comparable<T>> {
         tree.insert(163);
         tree.insert(164);
 
-        tree.printTree();
+        //tree.printTree();
+        tree.printPreOrder();
     }
 }
