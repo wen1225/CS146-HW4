@@ -1,0 +1,6 @@
+/***************************************************************************/
+RedBlackTree
+1. https://www.java-tips.org/java-se-tips-100019/24-java-lang/1904-red-black-tree-implementation-in-java.html
+2. https://github.com/Bibeknam/algorithmtutorprograms/blob/master/data-structures/red-black-trees/RedBlackTree.java
+3. https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
+/***************************************************************************/

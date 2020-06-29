@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:github" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7586cba-386e-417d-922a-7a07ec33e533" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/CS146.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree$BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree$BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/BinarySearchTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/oihdsoif/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW4/oihdsoif/RedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/References.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/References/References.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tree/testCase.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/CarTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/GenericTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/PostfixTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/car/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/car/CarInter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/infix/Infix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/HW1/infix/InfixConverter.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dmKAIt0XS0kr85BADSk706dkzE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Remote" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\School\Documents\CS146\HW4\src\References" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.RedBlackTree">
+    <configuration name="BinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.BinarySearchTree" />
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree.RedBlackTree" />
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlackTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="References.RedBlackTree" />
+      <module name="HW4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="References.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RedBlackTree" />
+        <item itemvalue="Application.BinarySearchTree" />
+        <item itemvalue="Application.RedBlackTree (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7586cba-386e-417d-922a-7a07ec33e533" name="Default Changelist" comment="" />
+      <created>1593024683697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593024683697</updated>
+      <workItem from="1593024686422" duration="16184000" />
+      <workItem from="1593108006727" duration="26000" />
+      <workItem from="1593135612976" duration="53253000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1206" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1593200440637">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1206" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1593200440637" />
+    <state x="86" y="305" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1593138326957">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="86" y="305" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1593138326957" />
+    <state x="139" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593138306519">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="139" y="420" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1050@0.0.1920.1050" timestamp="1593138306519" />
+    <state x="157" y="436" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593138328201">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="157" y="436" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1050@0.0.1920.1050" timestamp="1593138328201" />
+    <state x="1025" y="280" key="FileChooserDialogImpl" timestamp="1593400894332">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1025" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1593400894332" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1593410261212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1593410261212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1593410261212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1593410261212">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593410261212" />
+    <state width="672" height="922" key="GridCell.Tab.1.bottom" timestamp="1593392241075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="672" height="922" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1593392241075" />
+    <state width="672" height="922" key="GridCell.Tab.1.center" timestamp="1593392241075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="672" height="922" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1593392241075" />
+    <state width="672" height="922" key="GridCell.Tab.1.left" timestamp="1593392241075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="672" height="922" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1593392241075" />
+    <state width="672" height="922" key="GridCell.Tab.1.right" timestamp="1593392241075">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="672" height="922" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1593392241075" />
+    <state x="922" y="173" key="SettingsEditor" timestamp="1593032797807">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="922" y="173" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1593032797807" />
+    <state width="498" height="398" key="SwitcherDM" timestamp="1593033979420">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1920.1050@0.0.1920.1050" timestamp="1593033979420" />
+    <state x="670" y="236" width="579" height="578" key="find.popup" timestamp="1593387367154">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="670" y="236" width="579" height="578" key="find.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1593387367154" />
+    <state x="1096" y="247" width="672" height="677" key="run.anything.popup" timestamp="1593392399185">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1096" y="247" width="672" height="677" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1593392399185" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="T.root" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
