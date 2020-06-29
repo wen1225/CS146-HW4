@@ -26,14 +26,6 @@
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../HW1/Homework1 SU20 Due June-7 at 11-59 PM.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$COLOR.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$COLOR.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$RedBlackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree$RedBlackNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW4/Tree/RedBlackTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/Tree/References.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/Tree/testCase.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW4/production/HW4/production/HW4/Tree/testCase.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tree/RedBlackTree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/CarTester.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/GenericTester.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/HW1/PostfixTester.class" beforeDir="false" />
@@ -140,7 +132,7 @@
       <updated>1593024683697</updated>
       <workItem from="1593024686422" duration="16184000" />
       <workItem from="1593108006727" duration="26000" />
-      <workItem from="1593135612976" duration="54865000" />
+      <workItem from="1593135612976" duration="55464000" />
     </task>
     <servers />
   </component>
